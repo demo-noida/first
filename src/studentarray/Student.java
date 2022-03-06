@@ -8,7 +8,7 @@ package studentarray;
 
 /**
  *
- * @author Megha Patel
+ * @author 
  */
 public class Student {
     private String name;
