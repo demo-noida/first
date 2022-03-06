@@ -24,7 +24,7 @@ public class StudentArray {
         
         System.out.println("name: "+s1.getName());
         
-        Student[] studList=new Student[15];// array of student objects
+        Student[] studList=new Student[900];// array of student objects
     
     }
     
